@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/24XQFuFr11KDGtNDT7/giphy.gif"
 align="right" width="400" height="250">
 
-### Hi there, I'm Maverick Mendy. :blush:
+### Hi there, I'm Maverick Mendy. 🛩️
 
 ## Software Developer | Gamer
 
