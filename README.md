@@ -15,7 +15,7 @@ align="right" width="400" height="250">
 [discord]: https://discord.gg/yQRUDqHu5A
 
 <img src="https://media.giphy.com/media/WsvzgZUDzdZ1jc1g1Y/giphy-downsized-large.gif"
-align="left" width="300" height="150">
+align="right" width="300" height="150">
 
 Here are some ideas;
 
