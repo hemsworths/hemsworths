@@ -1,21 +1,4 @@
-### Hi there 👋
-
-<!--
-**maverickmendy/maverickmendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://media.giphy.com/media/qqKfePxg2U0bhQUOas/giphy.gif"
+<img src="https://media.giphy.com/media/24XQFuFr11KDGtNDT7/giphy.gif"
 align="right" width="400" height="250">
 
 ### Hi there, I'm Mendy. :blush:
@@ -31,3 +14,11 @@ align="right" width="400" height="250">
 
 
 [discord]: https://discord.gg/yQRUDqHu5A
+
+
+Here are some ideas;
+
+- 🔭 I’m currently likes playing game and watch Top Gun Maverick ( It's my favourite film/series ) 
+- 🌱 I’m currently learning subjects
+- 💬 Ask me about hobbies
+- ⚡ Fun fact: Playing Computer Games ( Ace Combat 7 ) / Watching Films ( Top Gun Maverick ).
