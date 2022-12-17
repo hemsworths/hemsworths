@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media.giphy.com/media/qqKfePxg2U0bhQUOas/giphy.gif"
+align="right" width="400" height="250">
+
+### Hi there, I'm Mendy. :blush:
+
+## Software Developer | Gamer
+
+<font color="black"> Snake Eyes-Maverick Mendy </font>
+
+### Reach out to me
+
+
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/discord.svg" align="left " />][discord]
+
+
+[discord]: https://discord.gg/yQRUDqHu5A
