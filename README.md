@@ -22,3 +22,9 @@ Here are some ideas;
 - 🌱 I’m currently learning subjects
 - 💬 My Discord: Maverick Mendy#0011
 - ⚡ Fun fact: Playing Computer Games ( Ace Combat 7 ) / Watching Films ( Top Gun Maverick ).
+
+
+<details>
+  <summary> 🛩️ Github Stats </summary>
+  < img src="https://github-readme-stats.vercel.app/api?username=maverickmendy&theme=tokyonight" >
+</details> 
