@@ -26,5 +26,5 @@ Here are some ideas;
 
 <details>
   <summary> 🛩️ Github Stats </summary>
-  < img src="https://github-readme-stats.vercel.app/api?username=maverickmendy&theme=tokyonight" >
+  <img src="https://github-readme-stats.vercel.app/api?username=maverickmendy&theme=tokyonight" >
 </details> 
