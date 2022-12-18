@@ -14,6 +14,8 @@ align="right" width="400" height="250">
 
 [discord]: https://discord.gg/yQRUDqHu5A
 
+<img src="https://media.giphy.com/media/WsvzgZUDzdZ1jc1g1Y/giphy.gif"
+align="right" width="400" height="100">
 
 
 Here are some ideas;
@@ -22,9 +24,6 @@ Here are some ideas;
 - 🌱 I’m currently learning subjects
 - 💬 My Discord: Maverick Mendy#0011
 - ⚡ Fun fact: Playing Computer Games ( Ace Combat 7 ) / Watching Films ( Top Gun Maverick ).
-
-<img src="https://media.giphy.com/media/WsvzgZUDzdZ1jc1g1Y/giphy.gif"
-align="right" width="400" height="100">
 
 
 <details>
