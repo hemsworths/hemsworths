@@ -24,7 +24,7 @@ Here are some ideas;
 - ⚡ Fun fact: Playing Computer Games ( Ace Combat 7 ) / Watching Films ( Top Gun Maverick ).
 
 <img src="https://media.giphy.com/media/WsvzgZUDzdZ1jc1g1Y/giphy.gif"
-align="right" width="400" height="90">
+align="right" width="400" height="100">
 
 
 <details>
