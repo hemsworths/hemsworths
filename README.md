@@ -31,5 +31,5 @@ Here are some ideas;
 
 <details>
   <summary> 🛩️ Most Used Languages </summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickmendy&layout=compact" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
 </details> 
