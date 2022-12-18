@@ -5,7 +5,7 @@ align="right" width="400" height="250">
 
 ## Software Developer | Gamer
 
-<font color="black"> Top Gun Maverick - Maverick Mendy </font>
+<font color="black"> Top Gun Maverick - Maverick Mendy - F-18 SUPER HORNET </font>
 
 ### Reach out to me
 
