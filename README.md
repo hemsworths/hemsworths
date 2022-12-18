@@ -23,6 +23,9 @@ Here are some ideas;
 - 💬 My Discord: Maverick Mendy#0011
 - ⚡ Fun fact: Playing Computer Games ( Ace Combat 7 ) / Watching Films ( Top Gun Maverick ).
 
+<img src="https://media.giphy.com/media/24XQFuFr11KDGtNDT7/giphy.gif"
+align="right" width="400" height="80">
+
 
 <details>
   <summary> 🛩️ Github Stats </summary>
