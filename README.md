@@ -28,3 +28,8 @@ Here are some ideas;
   <summary> 🛩️ Github Stats </summary>
   <img src="https://github-readme-stats.vercel.app/api?username=maverickmendy&theme=tokyonight" >
 </details> 
+
+<details>
+  <summary> 🛩️ Most Used Languages </summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickmendy&langs_count=8" >
+</details> 
