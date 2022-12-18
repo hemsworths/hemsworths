@@ -14,9 +14,6 @@ align="right" width="400" height="250">
 
 [discord]: https://discord.gg/yQRUDqHu5A
 
-<img src="https://media.giphy.com/media/WsvzgZUDzdZ1jc1g1Y/giphy.gif"
-align="left" width="350" height="150">
-
 
 Here are some ideas;
 
