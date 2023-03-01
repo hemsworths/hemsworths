@@ -1,7 +1,7 @@
 <img src="https://media.discordapp.net/attachments/1070313169240727585/1080522769785167872/tumblr_1408ca7b00a655c328f315e1ee2e6816_14fba649_400.gif"
 align="right" width="400" height="250">
 
-### Hi there, I'm Hemsworth. ⚽
+### Hi there, I'm Hemsworth. 
 ## Software Developer | FPS Player
 
 <font color="black"> FPS Player </font>
