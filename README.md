@@ -1,26 +1,25 @@
-<img src="https://media.giphy.com/media/U6jsZMxSLMZFqAHPxN/giphy.gif"
+<img src="https://media.discordapp.net/attachments/1070313169240727585/1080522769785167872/tumblr_1408ca7b00a655c328f315e1ee2e6816_14fba649_400.gif"
 align="right" width="400" height="250">
 
-### Hi there, I'm Kylian Mendy. ⚽
+### Hi there, I'm Hemsworth. ⚽
+## Software Developer | FPS Player
 
-## Software Developer | Gamer | Goalkeeper
-
-<font color="black"> Kylian Mbappe - Kylian Mendy - Goalkeeper </font>
+<font color="black"> FPS Player </font>
 
 ### Reach out to me
 
 
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/discord.svg" align="left " />][discord]
 
-[discord]: https://discord.gg/yQRUDqHu5A
+[discord]: https://discord.gg/vs2bFJyrzb 
 
 
 Here are some ideas;
 
-- 🔭 I’m currently likes playing game and playing soccer.
+- 🔭 I’m currently like playing game.
 - 🌱 I’m currently learning subjects.
-- 💬 My Discord: Kylian Mendy#0011
-- ⚡ Fun fact: Playing Computer Games(FIFA 23 exc.) and Playing Soccer.
+- 💬 My Discord: Hemsworth#1983
+- ⚡ Fun fact: Playing Computer Games.
 
 
 <details>
